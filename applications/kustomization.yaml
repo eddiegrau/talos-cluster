@@ -5,4 +5,4 @@ resources:
 - argocd
 - metallb
 - nginx-ingress
-- jiva
+- openebs
