@@ -4,3 +4,4 @@ kind: Kustomization
 resources:
 - metallb.yaml
 - l2-conf.yaml
+- pool.yaml
