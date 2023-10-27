@@ -16,7 +16,7 @@ spec:
       releaseName: openebs
       parameters:
         - name: "storageClass.isDefaultClass"
-          value: true
+          value: "true"
   syncPolicy:
     automated:
       prune: false # Specifies if resources should be pruned during auto-syncing ( false by default ).
