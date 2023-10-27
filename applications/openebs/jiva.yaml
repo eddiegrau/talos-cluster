@@ -14,7 +14,7 @@ spec:
     targetRevision: 3.2.0
     helm:
       releaseName: openebs
-      values: |
+      values:
         storageClass.isDefaultClass: true
   syncPolicy:
     automated:
