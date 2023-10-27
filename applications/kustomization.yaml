@@ -4,3 +4,4 @@ kind: Kustomization
 resources:
 - argocd
 - metallb
+- nginx-ingress.yaml
