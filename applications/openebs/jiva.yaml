@@ -11,7 +11,7 @@ spec:
   source:
     chart: jiva
     repoURL: https://openebs.github.io/jiva-operator
-    targetRevision: 3.2.0
+    targetRevision: 3.5.1
     helm:
       releaseName: openebs
       parameters:
