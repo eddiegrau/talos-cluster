@@ -4,3 +4,4 @@ kind: Kustomization
 resources:
 - traefik.yaml
 - dashboard.yaml
+- argocd-route.yaml
