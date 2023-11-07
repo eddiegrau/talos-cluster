@@ -3,4 +3,4 @@ kind: Kustomization
 
 resources:
 - jiva.yaml
-- config.yaml
+# - config.yaml
