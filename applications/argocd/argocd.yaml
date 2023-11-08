@@ -20,9 +20,9 @@ spec:
        - name: "server.ingress.enabled"
          value: "true"
        - name: "server.ingress.ingressClassName"
-         value: "nginx"
+         value: "traefik"
        - name: "server.ingress.hosts[0]"
-         value: "argocd.ingress.local"
+         value: "argocd.traefik.local"
   syncPolicy:
     automated:
       prune: false # Specifies if resources should be pruned during auto-syncing ( false by default ).
