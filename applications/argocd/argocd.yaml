@@ -16,7 +16,7 @@ spec:
       releaseName: argo
       parameters:
        - name: "configs.params.server.insecure"
-         value: "false"
+         value: "true"
        - name: "server.ingress.enabled"
          value: "true"
        - name: "server.ingress.ingressClassName"
