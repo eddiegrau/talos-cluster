@@ -6,5 +6,4 @@ resources:
 - metallb
 - nginx-ingress
 - openebs
-- traefik
 - vault
